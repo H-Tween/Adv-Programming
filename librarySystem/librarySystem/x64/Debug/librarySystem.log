@@ -1,0 +1,3 @@
+﻿  librarySystem.cpp
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 3\Advanced-Programming\librarySystem\librarySystem\librarySystem.cpp(344,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  librarySystem.vcxproj -> C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 3\Advanced-Programming\librarySystem\x64\Debug\librarySystem.exe
